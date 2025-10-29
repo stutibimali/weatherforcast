@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Select = ({ selected, setSelected, values }) => {
     return (
         <select
